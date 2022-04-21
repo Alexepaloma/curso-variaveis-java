@@ -25,6 +25,7 @@ public class contas {
 
         int j = k--;
 
+
         System.out.println("i: "  + i );
         System.out.println("j: " + j);
         System.out.println("k: " + k);

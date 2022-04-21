@@ -3,9 +3,9 @@ package br.com.dio.variaveis;
 /**
  * Classe de exemplo de aula 3 de Variáveis, Tipos de Dados e Operações Matemáticas.
  */
-public class main {
+public class contas {
 
-    public main(String[] args) {
+    public static void main(String[] args) {
         System.out.println("PrePos");
         prePos();
         System.out.println("Aritmético");
@@ -24,8 +24,6 @@ public class main {
         int i = ++k;
 
         int j = k--;
-
-        int x = k;
 
         System.out.println("i: "  + i );
         System.out.println("j: " + j);
